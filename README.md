@@ -175,7 +175,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
   
   Open command prompt and type
   ```
-  git clone https://github.com/MShawon/YouTube-Viewer.git --depth 10
+  git clone https://github.com/jimmyak845/YT-BOT.git --depth 10
   ```
   ```
   cd YouTube-Viewer
